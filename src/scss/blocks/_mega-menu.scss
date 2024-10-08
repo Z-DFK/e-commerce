@@ -62,8 +62,8 @@
             background-color: var(--color-background);
             transition: background .2s;
             &:hover {
-                border-color: var(--color-primary);
-                background-color: var(--color-primary);
+                border-color: var(--color-button);
+                background-color: var(--color-button);
                 .mega-menu__grid-cardName {
                     color: var(--color-card);
                     font-weight: 500;
